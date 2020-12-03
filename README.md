@@ -1,4 +1,4 @@
-moňáze program in big bold text
+moňáze program in big bold text help how do i do big bold text
 
 (the following is the instructiton file in the release)
 
