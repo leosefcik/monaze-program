@@ -1,4 +1,4 @@
-#monaze
+moňáze program in big bold text
 
 (the following is the instructiton file in the release)
 
