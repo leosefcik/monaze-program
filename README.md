@@ -1,3 +1,5 @@
+#monaze
+
 (the following is the instructiton file in the release)
 
 MOŇÁZE copyrigth (not actually) leosefcik
