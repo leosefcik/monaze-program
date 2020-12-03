@@ -1,11 +1,8 @@
-# monaze-program
-are You in finanical turmoil? Do you neeed to manage your finances better? Fear no more! Moňáze program will help you!
-
-(the following is the instruciton file for the release of moňáze)
-
+(the following is the instructiton file in the release)
 
 MOŇÁZE copyrigth (not actually) leosefcik
-moňáze is the only program you'll ever need for your finances!
+- are You in finanical turmoil? Do you neeed to manage your finances better? Fear no more! Moňáze program will help you!
+- moňáze is the only program you'll ever need for your finances!
 
 INSTRUCTIONS:
 when run the program (moňáze) you have to decision. If you type 1, you can enter your money (for example 190 money so i type 190), or type anything else (example: banan, square root of pi, square root of 16, computer) and you get random number between 50-100 money!
