@@ -17,3 +17,5 @@ type y to buy osmtinn! when you do, you enter name of product (example: banan) a
 WANRINGS:
 do NOT enter letters in numbers! (exampel: when Moňáze ask for money ammount, you type number and NOT letter (example: keyboard) because Moňáze will be sad and dont knwo what tod o D:
 )
+
+also check out https://github.com/leosefcik/monaze-program-the-game
