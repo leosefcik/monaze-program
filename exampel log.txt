@@ -1,0 +1,13 @@
+Summary:
+Money at the beginning: 102.43
+Money now: 74.47
+You have gained/lost: -27.96
+
+Your items (positive buy, negative sell):
+- ipad | -3.0 money
+- banan | -20.0 money
+- old iphon | 34.52 money
+- piza | -12.99 money
+- mni cerfat | -23.99 money
+- old mario mug | 3.49 money
+- new mario mug | -5.99 money
